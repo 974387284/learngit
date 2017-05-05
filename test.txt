@@ -6,5 +6,8 @@ add a new line again
 dev3
 master
 dev3
+<<<<<<< HEAD
 master
+=======
+>>>>>>> dev3
 
