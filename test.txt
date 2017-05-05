@@ -2,5 +2,9 @@ this is my first  time to use Notepad++;
 Add a new line¡£
 add a new line again
 123456
+<<<<<<< HEAD
 123
+=======
+123456
+>>>>>>> dev2
 
